@@ -20,9 +20,12 @@
 <meta name="twitter:title" content="Caso: Doces da Anninha · Gisele Borges | XL Borges">
 <meta name="twitter:description" content="Caso: Doces da Anninha — case de product design de Gisele Borges, da XL Borges.">
 <meta name="twitter:image" content="https://xlborges.com.br/assets/share/og-image.png">
+<style id="xl-acess-css">.xl-pular{position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;z-index:1000;background:#405035;color:#F4F3EF;padding:12px 18px;font-weight:700;text-decoration:none;border-radius:6px}.xl-pular:focus{left:16px;top:16px;width:auto;height:auto;overflow:visible}</style>
 </head>
 <body>
-<main>
+<a class="xl-pular" href="#conteudo">Pular para o conteúdo</a>
+
+<main id="conteudo">
 <x-dc>
 <helmet>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -173,5 +176,8 @@ return {};
 <style id="xl-topo-css">.xl-topo{position:fixed;right:20px;bottom:20px;z-index:900;width:52px;height:52px;border:0;border-radius:50%;background:#405035;color:#F4F3EF;cursor:pointer;display:flex;align-items:center;justify-content:center;box-shadow:0 4px 14px rgba(0,0,0,.18);opacity:0;transform:translateY(12px);transition:opacity .25s,transform .25s,background .2s;pointer-events:none}.xl-topo.on{opacity:1;transform:none;pointer-events:auto}.xl-topo:hover{background:#B93D1A}.xl-topo:focus-visible{outline:3px solid #B93D1A;outline-offset:3px}@media (prefers-reduced-motion:reduce){.xl-topo{transition:none}}</style>
 <button class="xl-topo" id="xl-topo" type="button" aria-label="Voltar ao topo"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 19V5M5 12l7-7 7 7"/></svg></button>
 <script>(function(){var b=document.getElementById('xl-topo');function t(){b.classList.toggle('on',window.scrollY>600)}window.addEventListener('scroll',t,{passive:true});t();b.addEventListener('click',function(){window.scrollTo({top:0,behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'})})})();</script>
+<div vw class="enabled"><div vw-access-button class="active"></div><div vw-plugin-wrapper><div class="vw-plugin-top-wrapper"></div></div></div>
+<script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+<script>new window.VLibras.Widget('https://vlibras.gov.br/app');</script>
 </body>
 </html>
