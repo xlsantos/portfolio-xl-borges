@@ -1,0 +1,27 @@
+# Gisele Borges · XL Borges
+
+> Gisele Borges é product designer pleno com 6 anos de experiência em produtos digitais B2B, B2C e sistemas internos, nos setores financeiro, tributário, industrial, agronegócio, saúde e terceiro setor. Atua do discovery à prototipação e à evolução de Design Systems. Também faz design gráfico, identidade visual e ilustração pela marca XL Borges, de Juazeiro do Norte, CE.
+
+Site: https://xlborges.com.br/
+
+## Páginas principais
+
+- [Início](https://xlborges.com.br/): apresentação, projetos em destaque e contato.
+- [Sobre](https://xlborges.com.br/Sobre): trajetória profissional, formação e habilidades.
+- [Currículo (PDF)](https://xlborges.com.br/assets/media/e20a6a2cd445c006c88009cede1024cf.pdf): currículo completo em português.
+
+## Cases públicos
+
+- [XL Borges](https://xlborges.com.br/Caso-XLBorges): identidade visual e marca de design de Gisele, com tipografia própria.
+- [Doces da Anninha](https://xlborges.com.br/Caso-Aninha): identidade visual e manual da marca.
+- [BASF](https://xlborges.com.br/Caso-BASF): produto para uso offline, pedidos e versão em espanhol.
+- [Genesis](https://xlborges.com.br/Caso-Genesis): evolução de Design System com tokens e implementação em Flutter.
+- [Maquininha](https://xlborges.com.br/Caso-Maquininha): aplicativo Android de ponto de venda (PDV) com divisão de contas.
+- [Raízen](https://xlborges.com.br/Caso-Raizen): design system e processos em produtos de energia e commodities.
+- [Saudion](https://xlborges.com.br/Caso-Saudion): design de produto com paleta e tipografia da marca.
+
+## Contato
+
+- E-mail: contato@xlborges.com.br
+- LinkedIn: https://www.linkedin.com/in/xlborges
+- Behance: https://www.behance.net/xlborges
